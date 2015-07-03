@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="022cbf8b-c04b-49e4-b829-cab8bb5412d3" 
+        solutionId="022cbf8b-c04b-49e4-b829-cab8bb5412d3" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ChangeManagement"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="ae1fd489-7760-46f1-9957-a993029b6d00" />
+  </features>
+</package>
